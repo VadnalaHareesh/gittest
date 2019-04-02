@@ -1,0 +1,1 @@
+Copy-Item "D:\VadnalaHareesh\CopyTest.ps1" -Destination "D:\Testing"
